@@ -1,6 +1,6 @@
 
 <template lang="html">
-  <li v-on:click="handleClick">{{results.title}}</li>
+  <li v-on:click="handleClick">{{recipe.title}}</li>
 </template>
 
 <script>
